@@ -1,7 +1,7 @@
 {
   "name": "terriajs-jasmine-ajax",
   "description": "This is a fork of the jasmine-ajax project with some improvements that were necessary for use with TerriaJS.",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "main": "lib/mock-ajax.js",
   "license": "MIT",
   "url": "https://github.com/TerriaJS/jasmine-ajax/tree/terriajs-jasmine-ajax",

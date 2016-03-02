@@ -1,11 +1,11 @@
 {
-  "name": "jasmine-ajax",
+  "name": "terriajs-jasmine-ajax",
   "description": "A library for faking Ajax responses in your Jasmine suite.",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "main": "lib/mock-ajax.js",
   "license": "MIT",
 
-  "homepage": "https://github.com/jasmine/jasmine-ajax",
+  "homepage": "https://github.com/TerriaJS/jasmine-ajax/tree/terriajs-jasmine-ajax",
   "authors": [
     "JR Boyens <jboyens@fooninja.org>",
     "Gregg Van Hove <gregg@slackersoft.net>"
